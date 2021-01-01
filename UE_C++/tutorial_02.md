@@ -92,7 +92,7 @@
 
     <img src="./assets/02/1.png" width="400">
 
-5. 생성자 함수를 통해 변수들을 디폴트로 초기화 시켜준다. ``MyAcotr.cpp`` 을 변경해보자.
+5. 생성자 함수를 통해 변수들을 디폴트로 초기화 시켜준다. ``MyActor.cpp`` 을 변경해보자.
 
     ```cpp
     #include "MyActor.h"
