@@ -16,3 +16,5 @@
 - [함수 및 UFUNCTION](https://github.com/happyOBO/Unreal_Study/blob/main/UE_C++/tutorial_03.md)
 - [카메라 조종](https://github.com/happyOBO/Unreal_Study/blob/main/UE_C++/tutorial_05.md)
 - [언리얼 구조체 생성](https://github.com/happyOBO/Unreal_Study/blob/main/UE_C++/tutorial_06.md)
+- [키보드 조작 및 Pawn](https://github.com/happyOBO/Unreal_Study/blob/main/UE_C++/tutorial_07.md)
+- [Component & Collision](https://github.com/happyOBO/Unreal_Study/blob/main/UE_C++/tutorial_08.md)
